@@ -3,7 +3,7 @@ Project for Graph Convolutional Network
 
 Paper : 
 
-Federico Monti, Michael M. Bronstein, and Xavier Bresson, ``Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks'', NIPS 2017
+Federico Monti, Michael M. Bronstein, and Xavier Bresson, "Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks'', NIPS 2017
 
 The code is based on https://github.com/fmonti/mgcnn/
 
